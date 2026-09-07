@@ -1,0 +1,19 @@
+about:
+  name: Ismail Saifudin
+  tagline: Senior Strategic Security Consultant
+  linkedin: Ismail-Saifudin             # Optional
+  links:
+    # Add any link as you like.
+    - title: /in/ismail-saifudin/
+      url: https://www.linkedin.com/in/ismail-saifudin/
+      icon: fab fa-linkedin
+    - title: Ismail-Saifudin
+      url: https://github.com/basic-hbb
+      icon: fab fa-github
+  details: |
+    Experienced cybersecurity professional with over 14 years of experience in offensive and defensive
+    security. Proven track record of developing and implementing comprehensive security strategy, managing cross-
+    functional teams and aligning cybersecurity initiatives with business objectives.
+
+certificates:
+  - title: "CISSP"

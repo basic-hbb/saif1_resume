@@ -1,0 +1,11 @@
+- company: Google
+  roles:
+    - role: Senior Strategic Security Consultant
+      details: |
+        Lead strategic cybersecurity projects. Manage consulting engagements from start to finish, ensuring project teams meet client needs and align with their risk profiles.
+        Guide the evolution of security programs. Advise on building and transforming cybersecurity programs, including the implementation of new security technologies.
+        Enhance cyber defense capabilities. Provide expert guidance on improving cyber defense programs, with a focus on areas like incident response, threat hunting, and threat intelligence.
+        Assess and mitigate cybersecurity risks. Conduct thorough security reviews, Tabletop Exercises and maturity assessments to identify cyber risks, then provide clear, actionable recommendations to clients.
+        Validate security effectiveness with Purple Team activities. Help clients configure and manage platforms like Mandiant Security Validation (MSV) to proactively find and fix gaps in their detection and prevention controls.
+      
+      date: 02.2026 - Present
