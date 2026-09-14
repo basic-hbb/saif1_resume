@@ -1,11 +1,64 @@
 - company: Google
+  page: 1
   roles:
     - role: Senior Strategic Security Consultant
       details: |
-        Lead strategic cybersecurity projects. Manage consulting engagements from start to finish, ensuring project teams meet client needs and align with their risk profiles.
-        Guide the evolution of security programs. Advise on building and transforming cybersecurity programs, including the implementation of new security technologies.
-        Enhance cyber defense capabilities. Provide expert guidance on improving cyber defense programs, with a focus on areas like incident response, threat hunting, and threat intelligence.
-        Assess and mitigate cybersecurity risks. Conduct thorough security reviews, Tabletop Exercises and maturity assessments to identify cyber risks, then provide clear, actionable recommendations to clients.
-        Validate security effectiveness with Purple Team activities. Help clients configure and manage platforms like Mandiant Security Validation (MSV) to proactively find and fix gaps in their detection and prevention controls.
-      
+        - Lead strategic cybersecurity consulting engagements from scoping through delivery, aligning outcomes to client risk profiles and business objectives.
+        - Advise clients on building and evolving cybersecurity programs and implementing new security technologies.
+        - Assess cyber risk through security reviews, tabletop exercises, and maturity assessments, then provide actionable recommendations.
+        - Strengthen cyber defense capabilities across incident response, threat hunting, and threat intelligence.
+        - Help clients use Mandiant Security Validation for purple team activities that identify and remediate prevention and detection-control gaps.
       date: 02.2026 - Present
+
+- company: Rogers Corporation
+  page: 1
+  roles:
+    - role: Global Security Operations Supervisor, reporting to CISO
+      details: |
+        - Operationalized the Secure Controls Framework into a unified risk-scoring model spanning IT and OT security.
+        - Led a NIST CSF 2.0 maturity assessment that produced evidence-based current and target profiles and a risk-prioritized roadmap.
+        - Performed OT discovery across 15 global sites to baseline ICS/SCADA visibility and support Dragos and Nozomi evaluations aligned to the Purdue model.
+        - Drove cybersecurity integration for a cross-border acquisition by aligning IT and OT control baselines.
+        - Planned OT segmentation across zones and conduits using DMZs and jump hosts to harden remote and local access.
+        - Developed NIST SP 800-61-aligned incident-response procedures and IEC 62443-guided OT control gap assessments.
+      date: 06.2024 - 02.2026
+
+- company: DTE Energy
+  page: 2
+  roles:
+    - role: Lead Security Engineer
+      details: |
+        - Authored OT policies, procedures, and role-based training to support audit readiness.
+        - Applied NIST SP 800-53 and NIST CSF guidance across critical-infrastructure OT field sites.
+        - Mapped more than 80 controls to federal compliance requirements, including TSA SD2 and CIP.
+      date: 09.2023 - 06.2024
+
+- company: Cisco Meraki
+  page: 2
+  roles:
+    - role: Senior Enterprise Security Engineer
+      details: |
+        - Established macOS fleet management using Jamf and Snipe-IT for asset inventory and configuration control.
+        - Built an enterprise code-exfiltration risk program using customized DLP policies across multiple Git repositories and more than 1,000 endpoints.
+        - Integrated security with product and data science teams across cloud and SaaS applications, strengthening data protection and insider-threat detection.
+      date: 12.2021 - 12.2022
+
+- company: Xcel Energy
+  page: 2
+  roles:
+    - role: Lead Incident Response Consultant
+      details: |
+        - Coordinated cybersecurity incident response as an internal advisor to the SOC and business units.
+        - Trained analysts and partnered with detection teams to apply red team methodologies to detection development.
+        - Implemented and maintained CIP-008 requirements supporting regulated utility operations.
+      date: 05.2021 - 12.2021
+
+- company: Dell Secureworks
+  page: 2
+  roles:
+    - role: Senior Security Consultant
+      details: |
+        - Led red and purple team engagements for Fortune 500 and critical-infrastructure organizations from kickoff through executive debrief.
+        - Performed social-engineering and physical-security testing for hospital networks, financial institutions, public utilities, airlines, and other large enterprises.
+        - Managed end-to-end consulting delivery, including scoping, technical execution, final reporting, and debriefs with client leaders and technical teams.
+      date: 02.2018 - 11.2020

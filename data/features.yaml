@@ -1,19 +1,54 @@
 about:
   name: Ismail Saifudin
   tagline: Senior Strategic Security Consultant
-  linkedin: Ismail-Saifudin             # Optional
+  linkedin: ismail-saifudin
   links:
-    # Add any link as you like.
-    - title: /in/ismail-saifudin/
+    - title: /in/ismail-saifudin
       url: https://www.linkedin.com/in/ismail-saifudin/
       icon: fab fa-linkedin
-    - title: Ismail-Saifudin
-      url: https://github.com/basic-hbb
-      icon: fab fa-github
   details: |
-    Experienced cybersecurity professional with over 14 years of experience in offensive and defensive
-    security. Proven track record of developing and implementing comprehensive security strategy, managing cross-
-    functional teams and aligning cybersecurity initiatives with business objectives.
+    Cybersecurity professional with 14+ years of experience across offensive and defensive security. Proven track record of developing and implementing comprehensive security strategies, leading cross-functional initiatives, and aligning cybersecurity programs with business objectives.
+
+skills:
+  - groupName: Security Strategy & Governance
+    list:
+      - Security program strategy - Cybersecurity maturity assessments - Security architecture
+      - NIST Cybersecurity Framework - NIST SP 800-53 - Secure Controls Framework
+      - Risk assessment - Executive reporting - Cross-functional leadership
+
+  - groupName: IT/OT & Critical Infrastructure
+    list:
+      - OT security - ICS/SCADA discovery - Purdue Model
+      - IEC 62443 - TSA SD2 - CIP-008
+      - OT segmentation - Zones and conduits - DMZs - Jump hosts
+
+  - groupName: Detection, Response & Validation
+    list:
+      - Incident response - NIST SP 800-61 - Threat hunting
+      - Threat intelligence - SOC operations - Purple teaming
+      - Mandiant Security Validation - Red teaming - Detection engineering
+
+  - groupName: Enterprise & Cloud Security
+    list:
+      - SaaS security - Data security - DLP - Insider threat
+      - macOS security - Jamf - Asset inventory - Configuration control
+      - Application security - Bug bounty - Security control testing
 
 certificates:
-  - title: "CISSP"
+  - title: CISSP
+    subtitle: ISC2, Credential ID 1688623
+
+  - title: ISA/IEC 62443 Level 1
+    subtitle: Industrial cybersecurity training
+
+  - title: "Adversary Tactics: Red Team Operations"
+    subtitle: SpecterOps
+
+  - title: Azure Security Fundamentals
+    subtitle: SpecterOps
+
+  - title: Foundations of Purple Teaming
+    subtitle: AttackIQ
+
+  - title: Physical Penetration & Electronic Access Control Hacking
+    subtitle: The Core Group
